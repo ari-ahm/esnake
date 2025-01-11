@@ -1,0 +1,8 @@
+# Directories
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
