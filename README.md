@@ -37,3 +37,5 @@ If no arguments are provided, the default values will be used.
 
 Enjoy testing this experiment in AI-driven Snake gameplay!
 
+
+![mmli](https://github.com/user-attachments/assets/4829cea7-f7fc-40f5-b2f3-2c051e7379a7)
