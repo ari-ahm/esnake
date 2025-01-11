@@ -36,3 +36,4 @@ If no arguments are provided, the default values will be used.
 - **B**: Toggle bot mode on/off. (bot is enabled by default)
 
 Enjoy testing this experiment in AI-driven Snake gameplay!
+
